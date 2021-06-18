@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<title>Established Solution</title>
+<h1 style="text-align: center;">Established Solution Guest house</h1>
+<p style="text-align: center;">Treats you the royalty you are!!!</p>
+<br>
+<p>Establiahed Solution is a guest house located in Murewa which offers special hotel services.It is rated 5star, one of the best in Mashonaland East Province.It offers accommodation, food,garden which has a view that of the garden of Eden. It doesnt only offer that but hospitality and brings the comfort of home.</p>
+<h2>Services</h2>
+<h3>Accommodation&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All-Day Meals&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Perfect Garden</h3>
+<p><img src="https://th.bing.com/th/id/Rc6129c6736043e946d5292a0bc987449?rik=moxOpituSutZ3A&amp;pid=ImgRaw" alt="" width="436" height="290" /><img src="https://th.bing.com/th/id/R23a0eebda259dfd997f204c47318f8e4?rik=11P07FCw5aTq%2fw&amp;pid=ImgRaw" alt="" width="436" height="290" /><img src="https://goingluxury.com/wp-content/uploads/2017/07/15259408_449702911820612_4341505173367592393_o.jpg" alt="" width="436" height="290" /></p>
+<h2>Enquires</h2>
+<h4>For more Inforation Contact Us On:</h4>
+<p>Tel: +263 771 254 430</p>
+<p>Email: bookings@esguest.co.zw</p>
